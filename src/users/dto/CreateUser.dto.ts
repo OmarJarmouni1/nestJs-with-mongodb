@@ -8,4 +8,3 @@ export class createUserDto {
     @IsOptional()
     displayName?: String;
 } 
-
